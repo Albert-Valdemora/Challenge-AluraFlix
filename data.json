@@ -1,0 +1,103 @@
+{
+  "Back End": [
+    {
+      "titulo": "What is Backend?",
+      "categoria": "Back End",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQPonJc1fgTX_mQ3zG5A94QrM_DofXTouvGXsgvvP_jlyYvja2",
+      "video": "https://www.youtube.com/embed/XBu54nfzxAQ",
+      "descripcion": "We learn every backend technology we need to build a web application. We go over backend programming languages, backend web frameworks, databases, APIs, REST APIs, cloud computing, and specialized backend technologies.",
+      "id": "0630"
+    },
+    {
+      "titulo": "BACK-END",
+      "categoria": "Back End",
+      "imagen": "https://i.ytimg.com/vi/137Q1tSkZ-I/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/137Q1tSkZ-I",
+      "descripcion": "Hoy vamos a ver cómo puedes llevar a trabajar como desarrollador we backend, y para ello vamos a basarnos en la experiencia personal de desarrolladores del sector a los que les he realizado preguntas a través de LinkedIn: ¿Cómo es el día a día de un backend developer? ¿Qué hace realmente un backend? ¿Cuáles son las tecnologías que debe dominar un backend? ¿Qué conceptos o qué conocimientos debe tenr un buen desarrollador backend? Si quieres saber la respuesta a todas estás preguntas (y mucho más) te veo dentro 😉.",
+      "id": "707c"
+    },
+    {
+      "titulo": "Node.js Crash Course",
+      "categoria": "Back End",
+      "imagen": "https://i.ytimg.com/vi/fBNz5xF-Kx4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/fBNz5xF-Kx4",
+      "descripcion": "Get started with Node.js with this comprehensive crash course covering basics, Express.js, MongoDB integration, and more.",
+      "id": "de37"
+    },
+    {
+      "titulo": "GraphQL Crash Course",
+      "categoria": "Back End",
+      "imagen": "https://i.ytimg.com/vi/ed8SzALpx1Q/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/ed8SzALpx1Q",
+      "descripcion": "Learn GraphQL fundamentals and how to use it in backend development.",
+      "id": "30c6"
+    }
+  ],
+  "Front End": [
+    {
+      "titulo": "CSS Avanzado",
+      "categoria": "Front End",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHoRf8frA067lQWvedA8tKBDyiIwfFFj-eiHaTaoHDe1pZH36F",
+      "video": "https://www.youtube.com/embed/css_avanzado.mp4",
+      "descripcion": "Domina técnicas avanzadas de CSS para crear sitios web atractivos y responsivos.",
+      "id": "143d"
+    },
+    {
+      "titulo": "Advanced CSS Techniques",
+      "categoria": "Front End",
+      "imagen": "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/1Rs2ND1ryYc",
+      "descripcion": "Master advanced CSS techniques for creating responsive and visually appealing websites.",
+      "id": "1b53"
+    },
+    {
+      "titulo": "Vue.js Essentials",
+      "categoria": "Front End",
+      "imagen": "https://i.ytimg.com/vi/NZElg91l_ms/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/NZElg91l_ms",
+      "descripcion": "Learn the essential concepts of Vue.js, a progressive JavaScript framework for building user interfaces.",
+      "id": "76c6"
+    },
+    {
+      "titulo": "JavaScript ES6+ Features",
+      "categoria": "Front End",
+      "imagen": "https://i.ytimg.com/vi/NCwa_xi0Uuc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/NCwa_xi0Uuc",
+      "descripcion": "Explore the latest features of JavaScript ES6 and beyond with practical examples."
+    }
+  ],
+  "Innovación y Gestión": [
+    {
+      "titulo": "Soft skills vs hard skills",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://i.ytimg.com/vi/VuLNCERKVS8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/VuLNCERKVS8",
+      "descripcion": "Examples of hard skills include professional skills like bricklaying or accountancy, medical expertise such as diagnosis and treatment, or other skills that can be taught and whose presence is testable through exams.",
+      "id": "a2aa"
+    },
+    {
+      "titulo": "¿Qué es Agile?",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://i.ytimg.com/vi/sLexw-z13Fo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDlXohOH63ik5FyS2Wd4iZ2EdwxPg",
+      "video": "https://www.youtube.com/embed/xlmEwPHeO4k",
+      "descripcion": "Con este video (¿Qué es Agile? Metodologías ágiles y agilidad - Agiles 2019) intento contar qué es Agile (o Ágil) y cómo surgió, mediante una pequeña historia basada en el personaje de Bob, en honor a Bob Martin, quien fue el ingeniero que ayudó a que en 2001 se creara el Manifiesto por el Desarrollo Ágil de Software. Intento explicar cuál es el corazón del manifiesto basado en sus cuatro valores y cómo surge de líderes de metodología livianas como el marco Scrum, XP, FDD, etc. Se intenta contar que Agile es un enfoque y un credo basado en valores y principios, declarados en agilemanifesto.org, para encontrar mejores formas de desarrollar software de calidad, mediante una historia simple.",
+      "id": "ab27"
+    },
+    {
+      "titulo": "Express.js Crash Course",
+      "categoria": "Back End",
+      "imagen": "https://i.ytimg.com/vi/L72fhGm1tfE/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/L72fhGm1tfE",
+      "descripcion": "A comprehensive introduction to Express.js for building web applications.",
+      "id": "3755"
+    },
+    {
+      "id": "0257",
+      "titulo": "DevOps Tutorial for Beginners ",
+      "video": "https://www.youtube.com/embed/hQcFE0RD0cQ?si=KDVw-hk9lJWa7zfJ",
+      "imagen": "https://i.ytimg.com/vi/hQcFE0RD0cQ/maxresdefault.jpg",
+      "descripcion": "This Edureka DevOps Tutorial for Beginners will help you learn DevOps concepts and DevOps tools with examples and demos. You will understand how a DevOps pipeline can be imagined for existing infrastructure. Furthermore, it will cover different DevOps tools & phases. Below are the topics covered in this Full Course DevOps Tutorial for Beginners:",
+      "categoria": "Innovación y Gestión"
+    }
+  ]
+}
